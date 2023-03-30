@@ -42,28 +42,28 @@ After examining collectively and cleaning individually our data sets, we used a 
 In total we analyzed 18 different categories and found the most determinant factors we’re: Location(Zip Code), Lot and Living space SQ Footage, Quality of Views, Waterfront access, and Grade of Construction Materials. 
 
 Properties vacant or rundown in these Zip Codes are inhertnatly more valuable and be invested for a flip or renovation: 
-For every ____ of Living Space SQ footage, we see an increase of ____. 
-For every ____ of Lot Space SQ footage, we see an increase of ____. 
+- For every ____ of Living Space SQ footage, we see an increase of ____. 
+- For every ____ of Lot Space SQ footage, we see an increase of ____. 
 On a scale of 5 relating to types of Views properties, there is a significant value difference. 
-1/None:  influences prices by _____
-2/Average: influences prices as compared to the previous category by ________. 
-3/Fair: influences prices as compared to the previous category by ________. 
-4/Good: influences prices as compared to the previous category by ________. 
-5/Excellent: influences prices as compared to the previous category by ________. 
+- 1/None:  influences prices by _____
+- 2/Average: influences prices as compared to the previous category by ________. 
+- 3/Fair: influences prices as compared to the previous category by ________. 
+- 4/Good: influences prices as compared to the previous category by ________. 
+- 5/Excellent: influences prices as compared to the previous category by ________. 
 On a scale of 13 relating to Grades of Quality of Materials, there is a significant value difference.
-1/Cabin: influences prices by ______
-2/Substandard: influences prices as compared to the previous category by ________. 
-3/Poor: influences prices as compared to the previous category by ________. 
-4/Low: influences prices as compared to the previous category by ________. 
-5/Fair: influences prices as compared to the previous category by ________. 
-6/Low Average: influences prices as compared to the previous category by ________. 
-7/Average: influences prices as compared to the previous category by ________. 
-8/Good: influences prices as compared to the previous category by ________. 
-9/Better: influences prices as compared to the previous category by ________. 
-10/Very Good: influences prices as compared to the previous category by ________. 
-11/Excellent: influences prices as compared to the previous category by ________. 
-12/Luxury: influences prices as compared to the previous category by ________. 
-13/Mansion: influences prices as compared to the previous category by ________. 
+- 1/Cabin: influences prices by ______
+- 2/Substandard: influences prices as compared to the previous category by ________. 
+- 3/Poor: influences prices as compared to the previous category by ________. 
+- 4/Low: influences prices as compared to the previous category by ________. 
+- 5/Fair: influences prices as compared to the previous category by ________. 
+- 6/Low Average: influences prices as compared to the previous category by ________. 
+- 7/Average: influences prices as compared to the previous category by ________. 
+- 8/Good: influences prices as compared to the previous category by ________. 
+- 9/Better: influences prices as compared to the previous category by ________. 
+- 10/Very Good: influences prices as compared to the previous category by ________. 
+- 11/Excellent: influences prices as compared to the previous category by ________. 
+- 12/Luxury: influences prices as compared to the previous category by ________. 
+- 13/Mansion: influences prices as compared to the previous category by ________. 
  Waterfront Properties influence price by _______, In conclusion, we would make the following recommendations for purchases: focus on 
 
 In conclusion our best strategy for our client to position themselves during shifting markets is to unload properties devoid of these features and acquire properties with the following characteristics or to have the following features: 
