@@ -50,6 +50,7 @@ On a scale of 5 relating to types of Views properties, there is a significant va
 - 3/Fair: influences prices as compared to the previous category by ________. 
 - 4/Good: influences prices as compared to the previous category by ________. 
 - 5/Excellent: influences prices as compared to the previous category by ________. 
+
 On a scale of 13 relating to Grades of Quality of Materials, there is a significant value difference.
 - 1/Cabin: influences prices by ______
 - 2/Substandard: influences prices as compared to the previous category by ________. 
