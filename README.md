@@ -9,15 +9,14 @@ Seattle and King County represent one of the most stable and lucrative parts of 
 
 - Certain Areas, High Living Space/Lot Space, Views/Waterfront, and quality construction.
 - Converting Basement Space to Living Space.
-- Convert Garage rooftops to Patio Space. 
-- Garages with Patio spaces atop are a highly preferable modification. 
+- Converting Garage-rooftops to rooftop-Patios. 
 - Avoid neighborhoods with Private Sewer Systems and older buildings.
 - School Districts play a major role in housing prices and are a unique selling point. 
 
 
 ## Business Problem
 
-Since 2015 the Seattle market has undergone a rapid price increase, 4-5% annually, and now is experiencing an increasingly rapid downturn, with house prices falling 7% this February alone. In light of the recent shifts in the American Real Estate Market, our client is re-evaluating their short and long-term investment strategies to mitigate the fallout. Our client wants to better understand what are the predictive factors for a data-informed, buying and selling strategy for short term and long term investments. The questions we set out to answer for our clients were: 
+Since 2015 the Seattle housing market has undergone a rapid price increase, 4-5% annually, and now is experiencing an increasingly rapid contraction, with house prices falling 7% this February alone. In light of the recent shifts in the Real Estate Market, our client is re-evaluating their short and long-term investment strategies to mitigate the fallout. Our client wants to reasses their strategy and has contracted us to provide a data-informed, buying and selling strategy for short term and long term investments. The questions we set out to answer for our clients were: 
 
 What were the factors of a house's price?
 What were the influences that had been overlooked?
@@ -40,7 +39,7 @@ After examining collectively and cleaning individually our data sets, we used a 
 
 ## Results
 
-In total we analyzed 18 different categories with 131 variables and found the most determinant factors we’re: Location and access to Schools, Lot and Living space SQ Footage, Quality of Views, Waterfront access, and Grade of Construction Materials. Bewteen these categories and variables we came to RSquared of 83%, meaning we we're able to explain the variance in pricing between one house and another with a 5% alpha (False Positive).   
+In total we analyzed 18 different categories with 131 variables and found the most determinant factors were: Location and access to Schools, Lot and Living space SQ Footage, Quality of Views, Waterfront access, and Grade of Construction Materials. Bewteen these categories and variables we came to RSquared of 83%, meaning we we're able to explain the 83% of the variance in pricing between one house and another with an alpha of 5% (False Positive).   
 
 ![PredictedVsActual (2)](https://user-images.githubusercontent.com/124652720/229214613-bf122a0f-0734-4e3b-9af3-984b9d551630.png)
 
@@ -64,7 +63,7 @@ On a scale of 13 relating to Grades of Quality of Materials, there is a signific
 - 2/Average: influences prices as compared to the previous category by 6%. 
 - 3/Good: influences prices as compared to average by 10%. 
 - 4/Very Good: influences prices as compared to the average by 24.5%. 
-- 5/Excellent: influences prices as compared to the previous category by 28%.
+- 5/Excellent: influences prices as compared to the average by 28%.
 
  Waterfront Properties influence price by 24% compared to Properities with no Waterfront. 
  
@@ -80,7 +79,7 @@ And specifically focusing on these neighborhoods:
  
  In conclusion, we would make the following recommendations for purchases:
  
-Structures or Land in the following Zip Codes: 
+
 - Average or above Views
 - Good or above Grade of Materials (ideally the higher the better to retain value). 
 - High SQ Footage of Living Space or Lot Space 
@@ -88,9 +87,32 @@ Structures or Land in the following Zip Codes:
 - Converting SQ Footage of Basement Space to multiply the value per foot by a factor of 4. 
 - Modifying Garages with Patio spaces atop to maxmize unused space. 
 - Avoid neighborhoods with Private Sewer Systems and older buildings.
+- Priotizing acquisiton in the following Zip Codes: 98039, 98004, 98033, 98112, 98102, due to the quality of schools. 
 
 ## Next Steps
 
-If contracted further we would analyze how public and private amenities affected long term housing values, the relationships between the wealth of local governments, and tax incentives currently employed. Also worth exploring would be how gyms, bars, superstores, public transporation and parks influenced local housing prices. Lastly we would like to refine some of the factoring around SQ footage in reguards to Lot Size. 
+If contracted further we would analyze how public and private amenities effected long term housing values, the relationships between the wealth of local governments, and tax incentives currently employed. Also worth exploring would be how gyms, bars, superstores, public transporation and parks influenced local housing prices. Lastly we would like to refine some of the factoring around SQ footage in reguards to Lot Size. 
 
-## For More Information
+## For More Information Contact: 
+
+Kevin Atkinsin
+-------------------------------------------
+kmatk620@gmail.com
+https://github.com/kmatk
+https://www.linkedin.com/in/kevin-m-atkinson/
+-------------------------------------------
+
+Luke Sims
+-------------------------------------------
+lukeasims@gmail.com
+https://github.com/vileincorp
+https://www.linkedin.com/in/luke-sims-oo7/
+-------------------------------------------
+
+
+Mahum Abid
+-------------------------------------------
+mahumabid101@gmail.com
+https://github.com/mahumabid
+https://www.linkedin.com/in/mahumabid0505/
+-------------------------------------------
