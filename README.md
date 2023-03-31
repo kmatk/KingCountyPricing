@@ -7,7 +7,7 @@
 
 Seattle and King County represent one of the most stable and lucrative parts of the American Real Estate Market. Our client, a major real estate investment firm in the area, contracted us to thoroughly examine the factors around housing and land prices to understand better when and what to buy and sell. We came to conclude an investment strategy following this critera: 
 
-- Certain Areas, High Living Space/Lot Space, Views/Waterfront, and quality construction. n/
+- Certain Areas, High Living Space/Lot Space, Views/Waterfront, and quality construction.
 - Converting Basement Space to Living Space.
 - Converting Garage-rooftops to rooftop-Patios. 
 - Avoid neighborhoods with Private Sewer Systems and older buildings.
