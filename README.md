@@ -97,22 +97,22 @@ If contracted further we would analyze how public and private amenities effected
 
 Kevin Atkinsin
 -------------------------------------------
-kmatk620@gmail.com
-https://github.com/kmatk
+kmatk620@gmail.com -- 
+https://github.com/kmatk -- 
 https://www.linkedin.com/in/kevin-m-atkinson/
 -------------------------------------------
 
 Luke Sims
 -------------------------------------------
-lukeasims@gmail.com
-https://github.com/vileincorp
+lukeasims@gmail.com -- 
+https://github.com/vileincorp --
 https://www.linkedin.com/in/luke-sims-oo7/
 -------------------------------------------
 
 
 Mahum Abid
 -------------------------------------------
-mahumabid101@gmail.com
-https://github.com/mahumabid
+mahumabid101@gmail.com -- 
+https://github.com/mahumabid --
 https://www.linkedin.com/in/mahumabid0505/
 -------------------------------------------
