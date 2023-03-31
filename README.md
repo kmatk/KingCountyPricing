@@ -1,4 +1,9 @@
 
+![Seattle-Misc-0015](https://user-images.githubusercontent.com/124652720/229219506-7d2088ed-8646-4c56-84f8-e0923951fda1.jpg)
+
+
+
+
 # Phase 2 Project
 
 **Authors**: [Mahum Abid](mailto:mahumabid101@gmail.com), [Kevin Atkinson](mailto:kmatk620@gmail.com), [Luke Sims](mailto:lukeasims@gmail.com)
