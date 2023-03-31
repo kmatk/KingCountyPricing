@@ -22,7 +22,7 @@ Seattle and King County represent one of the most stable and lucrative parts of 
 
 ## Business Problem
 
-Since 2015 the Seattle housing market has undergone a rapid price increase, 4-5% annually, and now is experiencing an increasingly rapid contraction, with house prices falling 7% this February alone. In light of the recent shifts in the Real Estate Market, our client is re-evaluating their short and long-term investment strategies to mitigate the fallout. Our client wants to reasses their strategy and has contracted us to provide a data-informed, buying and selling strategy for short term and long term investments. The questions we set out to answer for our clients were: 
+Since 2015 the Seattle housing market has undergone a steady price increase, 4-5% annually, and now is experiencing an increasingly rapid contraction, with house prices falling 7% this February alone. In light of the recent shifts in the Real Estate Market, our client is re-evaluating their short and long-term investment strategies to mitigate the fallout. They want us to re-evalute their methodology through a data-informed, buying and selling strategy for short term and long term investments. The questions we set out to answer for our clients were: 
 
 - What were the factors of a house's price?
 - What were the influences that had been overlooked?
@@ -74,7 +74,7 @@ On a scale of 13 relating to Grades of Quality of Materials, there is a signific
 
  Waterfront Properties influence price by 24% compared to Properities with no Waterfront. 
  
- School Districts also show an strong correlation to the value of surrouding homes so implemeneting a strategy around purchasing propeities in these areas 
+ School Districts also show an strong correlation to the value of surrouding homes so implemeneting a strategy around purchasing properities in these areas 
  is highly recommended, as evidenced by the following graphs. 
  
  ![DistrictVsPrice2 (3)](https://user-images.githubusercontent.com/124652720/229214420-6eafa1d3-ef0a-4975-ac5b-5076b8733c0a.png)
@@ -87,7 +87,7 @@ And specifically focusing on these neighborhoods:
  In conclusion, we would make the following recommendations for purchases:
  
 
-- Average or above Views
+- Average or Above Quality Views
 - Good or above Grade of Materials (ideally the higher the better to retain value). 
 - High SQ Footage of Living Space or Lot Space 
 - Waterfront Access
@@ -95,7 +95,8 @@ And specifically focusing on these neighborhoods:
 - Modifying Garages with Patio spaces atop to maxmize unused space. 
 - Avoid neighborhoods with Private Sewer Systems and older buildings.
 - Priotizing acquisiton in the following Zip Codes: 98039, 98004, 98033, 98112, 98102, due to the quality of schools. 
-
+- Using that access to school's as a selling point to families. 
+- 
 ## Next Steps
 
 If contracted further we would analyze how public and private amenities effected long term housing values, the relationships between the wealth of local governments, and tax incentives currently employed. Also worth exploring would be how gyms, bars, superstores, public transporation and parks influenced local housing prices. Lastly we would like to refine some of the factoring around SQ footage in reguards to Lot Size. 
