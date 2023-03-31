@@ -42,7 +42,7 @@ https://gis-kingcounty.opendata.arcgis.com/datasets/kingcounty::school-districts
 
 ## Methods
 
-After examining collectively and cleaning individually our data sets, we used a combination of descriptive and analytical statistical methods to determine correlations among our variables. Next, we standardized and ran singular and multiple linear regressions to confirm and quantify our findings. Finally we used a combination of data and business acumen to substantiate relevant conclusions for our stakeholder. 
+After examining collectively and cleaning individually our data sets, we used a combination of descriptive and analytical statistical methods to determine correlations among our variables. Next, we standardized and ran singular and multiple linear regressions to confirm and quantify our findings and collaborated to refine our factoring and reduce multi-collinearity and homoscedasticity. Finally we used a combination of data and business acumen to substantiate relevant conclusions for our stakeholder. 
 
 ## Results
 
