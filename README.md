@@ -84,17 +84,4 @@ If contracted further we would analyze how public and private amenities affected
 
 ## For More Information
 
-## Repository Structure
-
-```
-├── code
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
-├── data
-├── images
-├── README.md
-├── 
-└── 
-```
+Contact: 
