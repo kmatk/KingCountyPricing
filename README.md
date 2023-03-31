@@ -18,19 +18,20 @@ Seattle and King County represent one of the most stable and lucrative parts of 
 
 Since 2015 the Seattle housing market has undergone a rapid price increase, 4-5% annually, and now is experiencing an increasingly rapid contraction, with house prices falling 7% this February alone. In light of the recent shifts in the Real Estate Market, our client is re-evaluating their short and long-term investment strategies to mitigate the fallout. Our client wants to reasses their strategy and has contracted us to provide a data-informed, buying and selling strategy for short term and long term investments. The questions we set out to answer for our clients were: 
 
-What were the factors of a house's price?
-What were the influences that had been overlooked?
-Which properties should they unload from their portfolio? 
-What modifications could they make to existing properties to increase value? 
+- What were the factors of a house's price?
+- What were the influences that had been overlooked?
+- Which properties should they unload from their portfolio? 
+- What modifications could they make to existing properties to increase value? 
 
 ## Data
 
 We used a variety of available data sources ranging from one provided by the client and publically available APIs. 
 
-King County House Sales: 
+- King County House Sales: 
 https://github.com/npagrawal/Kings-County-Real-Estate-Analysis/blob/main/data/kc_house_data.csv
 
-King County Public School: :https://gis-kingcounty.opendata.arcgis.com/datasets/kingcounty::school-districts-in-king-count[…]ea/explore?location=47.527326%2C-121.923521%2C11.00
+- King County Public School::
+https://gis-kingcounty.opendata.arcgis.com/datasets/kingcounty::school-districts-in-king-count[…]ea/explore?location=47.527326%2C-121.923521%2C11.00
 
 
 ## Methods
@@ -97,22 +98,22 @@ If contracted further we would analyze how public and private amenities effected
 
 Kevin Atkinsin
 -------------------------------------------
-kmatk620@gmail.com -- 
-https://github.com/kmatk -- 
-https://www.linkedin.com/in/kevin-m-atkinson/
+- kmatk620@gmail.com 
+- https://github.com/kmatk 
+- https://www.linkedin.com/in/kevin-m-atkinson/
 -------------------------------------------
 
 Luke Sims
 -------------------------------------------
-lukeasims@gmail.com -- 
-https://github.com/vileincorp --
-https://www.linkedin.com/in/luke-sims-oo7/
+- lukeasims@gmail.com 
+- https://github.com/vileincorp 
+- https://www.linkedin.com/in/luke-sims-oo7/
 -------------------------------------------
 
 
 Mahum Abid
 -------------------------------------------
-mahumabid101@gmail.com -- 
-https://github.com/mahumabid --
-https://www.linkedin.com/in/mahumabid0505/
+- mahumabid101@gmail.com 
+- https://github.com/mahumabid 
+- https://www.linkedin.com/in/mahumabid0505/
 -------------------------------------------
